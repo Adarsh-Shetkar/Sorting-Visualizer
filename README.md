@@ -1,9 +1,7 @@
 
 # [Sorting Visualizer](https://adarshnaffan.netlify.app/)
 
-
-
-
+<img src="https://github.com/Adarsh-Shetkar/Sorting-Visualizer/blob/main/main%20page%20SV.jpg">
 
 ## Demo
 
